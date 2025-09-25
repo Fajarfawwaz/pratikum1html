@@ -85,7 +85,7 @@ Menambahkan tag <p> untuk membuat paragraf.
 
 html
     <p alig="center">
-        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        Nama saya Fajar Fawwaz Atallah Dengan <b>NIM 312410357</b>, Dari Kelas TI.24.A4, pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML
