@@ -31,7 +31,7 @@ html
 </head>
 <body>
 
-    <!-- Link Navigasi -->
+   <!-- Link Navigasi -->
     <nav>
         <a href="lab1_tag_dasar.html" target="_self">Dasar HTML</a> |
         <a href="lab1_halaman2.html" target="_self">Halaman 2</a> |
@@ -45,7 +45,7 @@ html
     <!-- Paragraf Pertama -->
     <!-- Ini adalah paragraf pertama -->
     <p alig="center">
-        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        Nama saya Fajar Fawwaz Atallah Dengan <b>NIM 312410357</b>, Dari Kelas TI.24.A4, pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML
@@ -69,7 +69,6 @@ html
 
 </body>
 </html>
-
 
 📸 <img width="3466" height="2154" alt="code1" src="https://github.com/user-attachments/assets/5a9f427b-af77-4ac4-ac3f-0f9da544dd9f" />
 
