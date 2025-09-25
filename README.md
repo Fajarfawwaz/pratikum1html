@@ -19,7 +19,7 @@
 
 Pertama membuat file lab1_tag_dasar.html berisi struktur dasar HTML.
 
-html
+
 ```
 
 <!DOCTYPE html>
@@ -87,7 +87,7 @@ Menambahkan tag
 ```
 untuk membuat paragraf.
 
-html
+
     <p alig="center">
         Nama saya Fajar Fawwaz Atallah Dengan <b>NIM 312410357</b>, Dari Kelas TI.24.A4, pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
@@ -116,9 +116,13 @@ html
 
 #### 3. Menambahkan Judul (Heading)
 
-Menambahkan heading <h1> dan <h2> sebelum paragraf.
+Menambahkan heading
+```
+<h1> dan <h2>
+```
+sebelum paragraf.
 
-html
+
 ```
  <!-- Judul Utama -->
     <h1>Belajar Dasar HTML</h1>
