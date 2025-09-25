@@ -130,7 +130,8 @@ html
 
 ```
 
-📸 <img width="3034" height="824" alt="code2" src="https://github.com/user-attachments/assets/b60d47ca-8950-425e-9eac-f173bdfba89f" />
+<img width="2264" height="748" alt="HTML 2" src="https://github.com/user-attachments/assets/721085ae-8bb0-4a61-9b62-562842f29568" />
+
 
 
 ---
