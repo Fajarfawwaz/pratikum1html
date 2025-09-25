@@ -104,7 +104,8 @@ html
     </p>
 
 
-📸 <img width="1919" height="176" alt="image" src="https://github.com/user-attachments/assets/cbec2846-ac75-4f9c-83ac-46c51c13420e" />
+<img width="1490" height="856" alt="Screenshot 2025-09-25 090410" src="https://github.com/user-attachments/assets/f41daeae-267a-4c4a-bcd1-ce8f1fee18e1" />
+
 
 
 ---
