@@ -138,16 +138,20 @@ html
 
 #### 4. Memformat Teks
 
-Menggunakan tag <b>, <i>, <sub>, <sup> untuk memformat teks.
+Menggunakan tag
+```
+<b>, <i>, <sub>, <sup>
+```
+untuk memformat teks.
 
-html
-<!-- Judul Utama -->
+```
+ <!-- Judul Utama -->
     <h1>Belajar Dasar HTML</h1>
 
     <!-- Paragraf Pertama -->
     <!-- Ini adalah paragraf pertama -->
     <p alig="center">
-        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        Nama saya Fajar Fawwaz Atallah Dengan <b>NIM 312410357</b>, Dari Kelas TI.24.A4, pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML
@@ -164,9 +168,10 @@ html
         Paragraf dibuat dengan menggunakan tag dasar HTML.<br>
         Contoh penggunaan <u>line break</u> dengan tag <code>&lt;br&gt;</code>.
     </p>
+```
 
+<img width="2264" height="1166" alt="HTML 3" src="https://github.com/user-attachments/assets/db812b0a-41b1-45f6-955b-e0cec33aae7a" />
 
-📸 <img width="1919" height="240" alt="image" src="https://github.com/user-attachments/assets/e8ca1033-c41a-4248-9893-d23e88c9ecd2" />
 
 
 ---
