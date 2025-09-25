@@ -82,7 +82,8 @@ html
 #### 2. Membuat Paragraf
 
 Menambahkan tag
-``` <p>
+```
+ <p>
 ```
 untuk membuat paragraf.
 
