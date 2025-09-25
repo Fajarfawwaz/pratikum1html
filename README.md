@@ -115,19 +115,22 @@ html
 Menambahkan heading <h1> dan <h2> sebelum paragraf.
 
 html
-    <!-- Judul Utama -->
+```
+ <!-- Judul Utama -->
     <h1>Belajar Dasar HTML</h1>
 
     <!-- Paragraf Pertama -->
     <!-- Ini adalah paragraf pertama -->
     <p alig="center">
-        Nama saya ZAENAL MAULANA RIZKI dengan <b> NIM 312410332 </b> dari <b> KELAS T.24.A.4</b> Sekarang saya sedang belajar HTML dasar </b> pada matakuliah <i>Pemrograman Web</i> 
+        Nama saya Fajar Fawwaz Atallah Dengan <b>NIM 312410357</b>, Dari Kelas TI.24.A4, pada matakuliah <i>Pemrograman Web</i> 
         di Prodi <mark> Teknik Informatika Universitas Pelita Bangsa. </mark>
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML
     </p>
 
-    <!-- Judul Paragraf Kedua -->
+```
+
+ <!-- Judul Paragraf Kedua -->
     <h2>Paragraf pada HTML</h2>
 
 
