@@ -20,7 +20,9 @@
 Pertama membuat file lab1_tag_dasar.html berisi struktur dasar HTML.
 
 html
-```<!DOCTYPE html>
+```
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
