@@ -81,7 +81,10 @@ html
 
 #### 2. Membuat Paragraf
 
-Menambahkan tag <p> untuk membuat paragraf.
+Menambahkan tag
+``` <p>
+```
+untuk membuat paragraf.
 
 html
     <p alig="center">
